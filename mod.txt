@@ -1,6 +1,6 @@
 {
     "name": "Character",
-    "description": "All Characters",
+    "description": "Scarface Character Pack DLC",
     "author": "tsk.xz",
     "contact": "@tsk.xz",
     "version": "v1.0.0",
