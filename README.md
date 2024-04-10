@@ -1,2 +1,1 @@
-# scarface
-Scarface Character Pack DLC
+# Unlock Scarface Character and Kingpin Injector
